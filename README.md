@@ -26,7 +26,8 @@ Apply hough transform and show the detected edge on the original image
 
 ## Program:
 ```Python
-
+### Name:P.Senthil Arunachalam
+### Reg No:212224240147
 # Read image and convert it to grayscale image
 import cv2
 import numpy as np
